@@ -1,0 +1,32 @@
+
+
+#titleText{
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
+    color: palegoldenrod;
+}
+
+#instructionsText{
+    font-family: 'Fondamento', cursive;
+    font-size: 15px;
+}
+
+#instructionsArea{
+   color: linen;
+   background-color:rgba(0, 0, 0, 0.5);
+}
+
+#countersStyle{
+    color: linen;
+    font-family: 'Fondamento', cursive;
+}
+
+.resultStyle{
+    font-size: 50px;
+}
+
+#countersBack{
+    color: palegoldenrod;
+    background-color:rgba(0, 0, 0, 0.4);
+    text-align: center;
+}
