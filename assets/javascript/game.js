@@ -73,7 +73,7 @@
 
 //Winner number sum
   function winning(){
-    alert("Well well, you're a winner!");
+    alert("Well well, you're a winner, Bilbo Baggings!");
       wins++; 
       $('#theWinnerNumber').text(wins);
       reset();
@@ -81,7 +81,7 @@
   
 //Loser number sum
     function losing(){
-    alert ("You're a looooooser");
+    alert ("You're a looooooser, Hobbit.");
       losses++;
       $('#theLooserNumber').text(losses);
       reset()
